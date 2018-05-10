@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://cpp10.github.io/</loc>
+<loc>https://cpp10.github.io</loc>
 <lastmod>2018-05-10</lastmod>
 <changefred>daily</changefred>
 <priority>1.0</priority>
