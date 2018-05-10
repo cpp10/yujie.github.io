@@ -1,6 +1,6 @@
 User-agent: *
 Disallow: /assets/
-Disallow: /favicon.ico/
+Disallow: /favicon.ico
 Disallow: /map.jpg
 
 Sitemap: https://cpp10.github.io/sitemap.xml
